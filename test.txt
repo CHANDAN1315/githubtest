@@ -1,1 +1,1 @@
-Fist commit form vs-code to githubgit
+Fist commit form vs-code to github
